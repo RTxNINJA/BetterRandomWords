@@ -1,1 +1,1 @@
-# Words Module for Python
+# Better Random Words 'API'
