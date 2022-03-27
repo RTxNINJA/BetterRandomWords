@@ -1,1 +1,1 @@
-# Better Random Words 'API'
+# Better Random Words
